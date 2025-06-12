@@ -117,7 +117,6 @@ Modern theming with:
 - **CSS custom properties** for dynamic styling
 ```
 ```
-
 **NOTE THAT**: The face animation feature does not work on current release.
 
 ## 📋 **System Requirements**
