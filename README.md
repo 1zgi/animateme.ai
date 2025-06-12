@@ -114,8 +114,7 @@ Modern theming with:
 - **Smooth transitions** between themes
 - **Persistent user preferences**
 - **CSS custom properties** for dynamic styling
-```
-```
+
 **NOTE THAT**: The face animation feature does not work on current release.
 
 ## **System Requirements**
@@ -138,5 +137,3 @@ Modern theming with:
 - **MediaPipe** for motion capture technology
 - **VRM** the type of GLTF 3D object file format
 - **Tailwind CSS** for the design system
-
----
