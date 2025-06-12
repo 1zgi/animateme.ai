@@ -1,0 +1,60 @@
+{
+  "name": "animateme-ai-core-demo",
+  "version": "1.0.0",
+  "description": "🎭 3D VRM Avatar Animation Platform - Core Architecture Demo showcasing real-time motion capture and 3D rendering capabilities",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1640029074.5",
+    "@mediapipe/drawing_utils": "^0.3.1620248257",
+    "@mediapipe/holistic": "^0.5.1635989137",
+    "@pixiv/three-vrm": "^2.1.0",
+    "@types/three": "^0.164.0",
+    "autoprefixer": "^10.4.16",
+    "clsx": "^2.0.0",
+    "kalidokit": "^1.1.5",
+    "lucide-react": "^0.293.0",
+    "next": "^14.0.0",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.0",
+    "three": "^0.164.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "typescript": "^5.2.0"
+  },
+  "keywords": [
+    "3D",
+    "VRM",
+    "animation",
+    "motion-capture",
+    "threejs",
+    "mediapipe",
+    "avatar",
+    "nextjs",
+    "typescript",
+    "portfolio",
+    "demo"
+  ],
+  "author": "AnimateMe.ai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/animateme-ai-core-demo"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/animateme-ai-core-demo/issues"
+  },
+  "homepage": "https://github.com/yourusername/animateme-ai-core-demo#readme"
+}
