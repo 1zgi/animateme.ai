@@ -157,7 +157,3 @@ This repository demonstrates:
 - **Tailwind CSS** for the design system
 
 ---
-
-**🎯 Portfolio Piece**: This repository demonstrates advanced skills in 3D graphics, real-time animation, and modern web development without exposing any sensitive business logic or authentication systems.
-
-*Built with ❤️ using Next.js, Three.js, and MediaPipe* 
