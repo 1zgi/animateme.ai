@@ -119,21 +119,21 @@ Modern theming with:
 ```
 **NOTE THAT**: The face animation feature does not work on current release.
 
-## 📋 **System Requirements**
+##**System Requirements**
 
 - **Node.js** 18.0 or higher
 - **Modern browser** with WebGL 2.0 support
 - **Camera access** for motion capture features
 - **8GB RAM** minimum for optimal performance
 
-## 🎨 **Design Highlights**
+## **Design Highlights**
 
 - **🌟 Glassmorphism UI**: Modern frosted-glass interface design
 - **📱 Responsive Layout**: Optimized for all screen sizes
 - **🌙 Dark/Light Themes**: Seamless mode switching
 - **🎭 Animation Controls**: Intuitive recording and playback
 
-## 🙏 **Acknowledgments**
+##**Acknowledgments**
 
 - **Three.js** for 3D rendering capabilities
 - **MediaPipe** for motion capture technology
