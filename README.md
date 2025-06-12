@@ -118,9 +118,9 @@ Modern theming with:
 ```
 
 ```
+
 **Note**: The face animation feature does not work on current release.
-```
-```
+
 ## 📋 **System Requirements**
 
 - **Node.js** 18.0 or higher
