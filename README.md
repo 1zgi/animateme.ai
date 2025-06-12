@@ -18,7 +18,7 @@
 - **Real-time facial expression mapping** to VRM blend shapes
 - **Body pose estimation** and bone retargeting
 - **WebRTC camera stream processing** with low latency
-- **Performance optimization** for 60fps animation
+- **Performance optimization** for 30fps animation
 
 ### **🖼️ Automated Thumbnail Generation**
 - **Off-screen canvas rendering** for VRM model previews
@@ -32,7 +32,7 @@
 - **Dark/Light theme system** with smooth transitions
 - **Glassmorphism effects** and modern aesthetics
 - **Interactive 3D controls** with intuitive file handling
-- **Drag-and-drop VRM model loading**
+- **VRM model uploading**
 
 ## 🛠 **Technical Stack**
 
@@ -43,7 +43,7 @@
 | **Motion Capture** | MediaPipe Holistic |
 | **Styling** | Tailwind CSS with custom design system |
 | **State Management** | React Hooks and Context API |
-| **File Handling** | Browser File API with drag-and-drop |
+| **File Handling** | Browser File API |
 | **Build Tools** | PostCSS, ESLint, TypeScript compiler |
 
 ## 📁 **Project Architecture**
@@ -95,8 +95,8 @@ Advanced 3D rendering component featuring:
 
 ### **📹 LiveVtuber** (`/app/components/3d-rendering/LiveVtuber.tsx`)
 Real-time motion capture system with:
-- **Face landmark detection** (468 points)
-- **Pose estimation** (33 body landmarks)
+- **Face landmark detection**
+- **Pose estimation** 
 - **Smooth animation interpolation** to prevent jitter
 - **Performance optimization** for mobile devices
 - **Recording capabilities** with frame-perfect timing
@@ -124,22 +124,7 @@ Modern theming with:
 - **Node.js** 18.0 or higher
 - **Modern browser** with WebGL 2.0 support
 - **Camera access** for motion capture features
-- **4GB RAM** minimum for optimal performance
-
-## 🎯 **Demo Capabilities**
-
-This repository demonstrates:
-
-| Feature | Status | Description |
-|---------|--------|-------------|
-| ✅ **VRM Model Rendering** | Working | Load and display 3D VRM avatars |
-| ✅ **Real-time Motion Capture** | Working | Face and body tracking with MediaPipe |
-| ✅ **Animation Recording** | Working | Capture and save motion data |
-| ✅ **Animation Playback** | Working | Replay recorded animations |
-| ✅ **Thumbnail Generation** | Working | Automated model preview creation |
-| ✅ **Theme Management** | Working | Dark/Light mode switching |
-| ✅ **File Upload** | Working | Drag-and-drop VRM loading |
-| ✅ **Responsive Design** | Working | Mobile and desktop optimization |
+- **8GB RAM** minimum for optimal performance
 
 ## 🎨 **Design Highlights**
 
@@ -147,13 +132,12 @@ This repository demonstrates:
 - **📱 Responsive Layout**: Optimized for all screen sizes
 - **🌙 Dark/Light Themes**: Seamless mode switching
 - **🎭 Animation Controls**: Intuitive recording and playback
-- **📁 File Management**: Visual drag-and-drop interface
 
 ## 🙏 **Acknowledgments**
 
 - **Three.js** for 3D rendering capabilities
 - **MediaPipe** for motion capture technology
-- **VRM Consortium** for the VRM avatar format
+- **VRM** the type of GLTF 3D object file format
 - **Tailwind CSS** for the design system
 
 ---
