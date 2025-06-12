@@ -34,7 +34,7 @@
 - **Interactive 3D controls** with intuitive file handling
 - **VRM model uploading**
 
-## 🛠 **Technical Stack**
+## **Technical Stack**
 
 | Category | Technology |
 |----------|------------|
@@ -103,11 +103,10 @@ Real-time motion capture system with:
 
 ### **🖼️ ThumbnailGenerator** (`/app/utils/vrmThumbnailGenerator.ts`)
 Automated preview generation featuring:
-- **Off-screen WebGL rendering** without DOM manipulation
+- **Off-screen WebGL rendering** (like an offscreen canvas or a texture)
 - **Quality optimization** with configurable settings
 - **Memory management** to prevent leaks
 - **Batch processing** for multiple models
-- **Error recovery** for WebGL context loss
 
 ### **🎨 Theme System** (`/app/contexts/ThemeContext.tsx`)
 Modern theming with:
