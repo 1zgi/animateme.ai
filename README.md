@@ -149,10 +149,6 @@ This repository demonstrates:
 - **🎭 Animation Controls**: Intuitive recording and playback
 - **📁 File Management**: Visual drag-and-drop interface
 
-## 📄 **License**
-
-MIT License - See [LICENSE](LICENSE) file for details.
-
 ## 🙏 **Acknowledgments**
 
 - **Three.js** for 3D rendering capabilities
