@@ -83,7 +83,7 @@
     └── 📂 models/                   # Sample VRM files
 ```
 
-## 🎯 **Key Components Overview**
+## **Key Components Overview**
 
 ### **🎮 VRMViewer** (`/app/components/3d-rendering/VRMViewer.tsx`)
 Advanced 3D rendering component featuring:
