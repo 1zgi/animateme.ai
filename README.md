@@ -1,4 +1,4 @@
-# 🎭 AnimateMe.ai - Core Architecture Demo
+# ![favicon-32x32](https://github.com/user-attachments/assets/b2d7ac22-a723-4766-8fcf-f8f5f763a96d) AnimateMe.ai - Core Architecture Demo
 
 **Human Activity-Based Animation of 3D Characters Using Computer Vision and Web Technologies** - Technical demonstration of real-time motion capture and 3D rendering capabilities.
 
