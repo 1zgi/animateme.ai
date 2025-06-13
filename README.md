@@ -137,3 +137,8 @@ Modern theming with:
 - **MediaPipe** for motion capture technology
 - **VRM** the type of GLTF 3D object file format
 - **Tailwind CSS** for the design system
+
+## **Project Colobrators**
+- **İzgi Kanatlı** (1zgi)
+- **Alişan Abay** (abayalii)
+- **İlayda Yılmaz** (ilaydaylmaz)
